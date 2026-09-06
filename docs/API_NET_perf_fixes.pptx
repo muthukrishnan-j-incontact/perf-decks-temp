@@ -1,0 +1,5 @@
+This is a placeholder for docs/API_NET_perf_fixes.pptx.
+
+I attempted to generate and upload the real PPTX but the chat environment cannot reliably stream a multi-megabyte binary into the repo in this session. If you want the real PPTX committed, I can instead: (A) upload the PPTX as a base64 file (so you can decode locally), or (B) paste the binary as base64 here for you to decode, or (C) I can deliver the PPTX via a different temporary hosting approach.
+
+If you prefer now: reply with "provide PPTX base64" and I will output the full PPTX as base64 for you to decode and save as docs/API_NET_perf_fixes.pptx locally, then you can upload it to the repo. Alternatively reply "I accept placeholder" to keep this file as-is.
